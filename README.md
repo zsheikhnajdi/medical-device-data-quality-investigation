@@ -37,7 +37,7 @@ The analysis includes:
 
 ## Repository Structure
 
-text
+```text
 .
 ├── analysis.py
 ├── requirements.txt
@@ -45,6 +45,7 @@ text
 ├── reports/
 │   └── project_summary.md
 └── .gitignore
+```
 
 ## Tools & Technologies
 Python
@@ -59,12 +60,18 @@ Time-series consistency checks
 ## How to Run
 
 Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
 Run the analysis:
-python analysis.py
 
-The script expects the input datasets to be available locally.
+```bash
+python analysis.py
+```
+
+The script expects the input datasets to be available locally.  
 Raw datasets are intentionally excluded from this repository.
 
 ## Business Value
