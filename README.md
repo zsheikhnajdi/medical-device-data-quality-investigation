@@ -80,5 +80,3 @@ device reuse cases that may affect analysis
 ## Notes
 This repository is a portfolio version of a data quality investigation project.
 All sensitive, raw, or company-specific data has been excluded.
-
-```
