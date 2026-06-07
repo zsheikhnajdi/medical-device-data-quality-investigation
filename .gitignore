@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE / notebooks
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Raw data and generated data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Reports and submission files
+*.pdf
+
+# Temporary Excel files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
